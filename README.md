@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá, eu sou o Victor Santos. 👋
 
-<!--
-**vicsantus/vicsantus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Eu estou atualmente trabalhando em melhoras minhas habilidades e aptitudes.
+- 🐱‍🏍 Eu estou atualmente aprendendo JS/Front-End.
+- 💬 Pergunte-me algo sobre games.
+- 😄 Pronuncia: Ele/Dele.
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/vicsantus">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vicsantus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicsantus&layout=compact&count_private=true&langs_count=7&theme=dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+
+![Snake animation](https://github.com/rafaballerini/vicsantus/blob/output/github-contribution-grid-snake.svg)
+
+</div>
