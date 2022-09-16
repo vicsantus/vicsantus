@@ -13,6 +13,6 @@
 
 <div>
 
-![Snake animation](https://github.com/rafaballerini/vicsantus/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vicsantus/vicsantus/blob/output/github-contribution-grid-snake.svg)
 
 </div>
