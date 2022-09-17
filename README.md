@@ -1,4 +1,4 @@
-### Olá, eu sou o Victor Santos. 👋
+### Bem-vindo. 👋
 
 - 🔭 Eu estou atualmente trabalhando em melhorar minhas habilidades e aptitudes.
 - 🐱‍🏍 Eu estou atualmente aprendendo JS/Front-End.
