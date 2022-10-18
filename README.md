@@ -1,6 +1,6 @@
 ### Bem-vindo. 👋
 
-- 🔭 Eu estou atualmente trabalhando em melhorar minhas habilidades e aptitudes.
+- 🔭 Melhorando minhas habilidades e aptitudes.
 - 🐱‍🏍 Eu estou atualmente aprendendo JS/Front-End.
 - 💬 Pergunte-me algo sobre games.
 - 😄 Pronuncia: Ele/Dele.
