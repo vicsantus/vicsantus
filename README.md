@@ -1,9 +1,10 @@
 ### Bem-vindo. 👋
 
-- 🔭 Melhorando minhas habilidades e aptitudes.
-- 🐱‍🏍 Eu estou atualmente aprendendo JS/Front-End.
+- 😄 Meu nome é Victor Santos. Atualmente sou uma pessoa estudante da Trybe. Possuo conhecimentos de JavaScript, Html, Css, React, Jest, Rest, dentre outros...
+     Em relação a BackEnd possuo conhecimento em Python, Java, C#, C++, além de estar desenvolvento um game no GameMaker, ... .
+- 🔭 Estou melhorando minhas habilidades em desenvolvimento e estudando e aplicando meu conhecimento todos os dias.
+- 🐱‍🏍 Eu estou atualmente aprendendo JS/Front-End com React e usando Jest e React Testing Library para criar Teste Unitários Assincronos.
 - 💬 Pergunte-me algo sobre games.
-- 😄 Pronuncia: Ele/Dele.
 
 <div align="center">
   <a href="https://github.com/vicsantus">
