@@ -2,7 +2,7 @@
 
 - 😄 Meu nome é Victor Santos. Atualmente sou uma pessoa estudante da Trybe. Possuo conhecimentos de JavaScript, Html, Css, React, Jest, Rest, dentre outros...
      Em relação a BackEnd possuo conhecimento em Python, Java, C#, C++, SQL, MongoDB, Docker, TypeScript, Node, ORM e ORM com JWT, arquitetura de software modelo MSC, RESTFul, além de ter desenvolvido um game no GameMaker, ... .
-- 🏍 Eu estou atualmente aprendendo Typescript com Express (Framework de NodeJs).
+- 🏍 Eu estou atualmente aprendendo SOLID.
 <br>
 Linkedin: https://www.linkedin.com/in/dev-victor-santos/
 <br>
