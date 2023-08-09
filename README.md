@@ -9,9 +9,9 @@ E-mail: victor.santos.fk@hotmail.com
 
 <div align="center">
   <a href="https://github.com/vicsantus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vicsantus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicsantus&layout=compact&count_private=true&langs_count=7&theme=dark"/><br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vicsantus&theme=dark&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vicsantus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicsantus&layout=compact&count_private=true&langs_count=7&theme=dracula"/><br /> -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vicsantus&theme=dark&hide_border=false&theme=dracula"/>
   
 </div>
 
