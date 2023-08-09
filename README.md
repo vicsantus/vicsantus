@@ -19,46 +19,49 @@ E-mail: victor.santos.fk@hotmail.com
 <div align="center" style="display: flex>
 <br>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img align="center" alt="Vic-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer">
-  <img align="center" alt="Vic-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer">
-  <img align="center" alt="Vic-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
   <a href="https://jestjs.io/pt-BR/" target="_blank" rel="noreferrer">
-  <img align="center" alt="Vic-Jest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  <img align="center" alt="Jest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img align="center" alt="Vic-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img align="center" alt="Vic-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-  <img align="center" alt="Vic-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-  <img align="center" alt="Vic-BootStrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+  <img align="center" alt="BootStrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
   </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-  <img align="center" alt="Vic-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-  <img align="center" alt="Vic-Node" height="40" width="50" src="https://www.svgrepo.com/download/354118/nodejs.svg">
+  <img align="center" alt="Node" height="40" width="50" src="https://www.svgrepo.com/download/354118/nodejs.svg">
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img align="center" alt="Vic-Ts" height="40" width="50" src="https://www.svgrepo.com/download/349540/typescript.svg">
+  <img align="center" alt="Ts" height="40" width="50" src="https://www.svgrepo.com/download/349540/typescript.svg">
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img align="center" alt="Vic-Mysql" height="40" width="50" src="https://www.svgrepo.com/download/354099/mysql.svg">
+  <img align="center" alt="Mysql" height="40" width="50" src="https://www.svgrepo.com/download/354099/mysql.svg">
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img align="center" alt="Vic-Mongo" height="40" width="50" src="https://www.svgrepo.com/download/439231/mongodb.svg">
+  <img align="center" alt="Mongo" height="40" width="50" src="https://www.svgrepo.com/download/439231/mongodb.svg">
   </a>
   <a href="https://gamemaker.io/en" target="_blank" rel="noreferrer">
-  <img align="center" alt="Vic-Gamemaker" height="40" width="50" src="https://www.svgrepo.com/download/373618/gamemaker2.svg">
+  <img align="center" alt="Gamemaker" height="40" width="50" src="https://www.svgrepo.com/download/373618/gamemaker2.svg">
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+  <img align="center" alt="Vue" height="40" width="50" src="https://www.svgrepo.com/download/303494/vue-9-logo.svg">
   </a>
 </div>
 
