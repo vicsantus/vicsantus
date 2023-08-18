@@ -1,6 +1,6 @@
 ### Bem-vindo. 👋
 
-- 😄 Meu nome é Victor Santos. Atualmente estudo e estou em busca de uma oportunidade no mercado de trabalho. Possuo conhecimentos de JavaScript, Html, Css, React, React Router Dom, Context API, React Testing Library, Nuxt, Vue, Jest, Rest, dentre outros...
+- 😄 Meu nome é Victor Santos. Atualmente estudo e trabalho na Lexart Labs. Possuo conhecimentos de JavaScript, Html, Css, React, React Router Dom, Context API, React Testing Library, Nuxt, Vue, Jest, Rest, dentre outros...
      Em relação a BackEnd possuo conhecimento em Python, Analise de dados em Python, PyTest, Java, C#, SQL, PostgreSQL, MongoDB, Docker, TypeScript, NodeJS, Express, ORM (Sequelize), ODM (Mongoose), ORM e ODM com JWT, arquitetura de software MVC, RESTFul, SOLID, Jira, COBOL, além de ter desenvolvido um game no GameMaker, ... .
 <br>
 Linkedin: https://www.linkedin.com/in/dev-victor-santos/
