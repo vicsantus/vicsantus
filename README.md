@@ -68,6 +68,8 @@ E-mail: victor.santos.fk@hotmail.com
 <br>
 <br>
 <div align="center" style="display: flex>
-     <a href="https://www.buymeacoffee.com/vitinho1994" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 44px !important;width: 160px !important;" ></a>
+     <a href="https://www.buymeacoffee.com/vitinho1994" target="_blank">
+          <a href="https://www.buymeacoffee.com/vitinho1994" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+     </a>
 </div>
 
